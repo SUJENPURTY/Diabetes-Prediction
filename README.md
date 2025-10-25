@@ -12,5 +12,8 @@ python app.py
 
 To access your flask application open new tab in and paste the url:
 ```
-https://{your_url}.pwskills.app:5000/
+http://127.0.0.1:5000/predictdata
 ```
+Interface look like :
+<img width="586" height="570" alt="image" src="https://github.com/user-attachments/assets/d2effbc8-a528-443c-bfca-843c19df29c1" />
+
